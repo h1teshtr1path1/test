@@ -1,4 +1,5 @@
-The BOOM DAO core team proposes to add liquidity to the ICP/BOOM pool on ICPSwap (https://info.icpswap.com/swap/pool/details/fdno6-ayaaa-aaaag-qckuq-cai).
+
+The BOOM DAO core team proposes to add liquidity to the ICP/BOOM pool on ICPSwap (https://info.icpswap.com/swap/pool/details/fdno6-ayaaa-aaaag-qckuq-cai)
 
 Following this motion proposal, we will submit 2 additional proposals to apply for the transfer of 1500 ICP and 1,000,000 BOOM, respectively, from the BOOM DAO SNS treasury to the ICP/BOOM Swap canister owned by ICPSwap (fdno6-ayaaa-aaaag-qckuq-cai). The destination account for both transfer proposals will be the same but on 2 different ledgers of BOOM and ICP respectively and is as follows:
 Principal: **fdno6-ayaaa-aaaag-qckuq-cai**
