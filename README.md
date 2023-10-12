@@ -1,13 +1,10 @@
-The BOOM DAO core team proposes to add liquidity to the ICP/BOOM pool on Sonic Dex (https://data.sonic.ooo/pools/ryjl3-tyaaa-aaaaa-aaaba-cai:vtrom-gqaaa-aaaaq-aabia-cai)
+This is a proposal to release the Unity SDK built by the BOOM DAO core team to the public and complete the Unity SDK milestone on the BOOM DAO Roadmap. More information about the Unity SDK can be found below.
 
-Following this motion proposal, we will submit 2 additional proposals to apply for the transfer of 1500 ICP and 600,000 BOOM, respectively, from the BOOM DAO SNS treasury to the ICP/BOOM Swap canister owned by Sonic Dex (https://app.sonic.ooo/)
+**What's the Unity SDK?**
 
-The destination account for both transfers will be the same but on 2 different ledgers and is as follows:
+A drag-and-drop Unity Package that can be added to any Unity project to kickstart development on ICP with pre-built features for ICP login authentication, canister database, NFT and ICRC token minting, NFT marketplace, and in-game Shop that accepts ICP/ICRC/NFT payments.
 
-Principal: **3xwpq-ziaaa-aaaah-qcn4a-cai**
+**Download The Unity SDK**
 
-Subaccount: **[240, 240, 44, 241, 69, 116, 107, 244, 179, 136, 6, 231, 238, 28, 209, 108, 241, 126, 101, 27, 229, 86, 56, 189, 225, 158, 37, 218, 76, 35, 156, 225]** (this is the Subaccount generated from the SONIC swap canister)
-
-Simultaneously, @sonic_ooo will tweet to verify that these proposals are correct and that they were initiated by the BOOM DAO core team.
-
-If these proposals are approved, Sonic Dex will add the funds to the liquidity pool.
+To use the BOOM Unity SDK for ICP integration, simply download the Unity Package from the link below and drag it into your Unity project:
+https://github.com/BoomDAO/unity-template/releases/
