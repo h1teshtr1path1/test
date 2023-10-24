@@ -8,27 +8,27 @@ The funds being requested will be utilized over the next two years, primarily fo
 
 ## Budget Breakdown
 * Team Salaries: Compensation for the team members dedicated to building BOOM DAO's mission. This ensures we attract, retain, and motivate top talent critical for the development and growth of BOOM DAO.
-* HR/Administrative: HR-related costs, including operational expenses and administrative overhead, necessary for the management and contractual employment of the BOOM DAO team.
-* Operational Expenses: Operational work-related costs, encompassing tools, software, and communication platforms that facilitate both remote and in-person collaboration. This also covers general operational expenses essential to the day-to-day functions of BOOM DAO.
-* Infrastructure Expenses: Costs related to running and maintaining open internet services and infrastructure on the Internet Computer blockchain. This includes cycle top ups and fees associated with SNS canister management, World canister deployment, NFT canister deployment, ICRC canister deployment, and asset canister hosting costs.
-* Legal, Compliance, & Incorporation Fees: Comprehensive legal services to ensure BOOM DAO navigates evolving regulatory landscapes. This includes compliance, contractual obligations, employment contracts, and costs for legal incorporation.
-* Third-Party Services: Expenditures related to third-party tools, technologies, and services integral to BOOM DAO's operations.
-* Marketing & Community Engagement: A budget allocation for marketing campaigns, advertising, social media management, and other promotional activities that elevate BOOM DAO's visibility.
-* Community Building: Resources dedicated to community managers, moderators, and other support roles crucial for fostering community engagement and elevating the user experience.
+* **HR/Administrative**: HR-related costs, including operational expenses and administrative overhead, necessary for the management and contractual employment of the BOOM DAO team.
+* **Operational Expenses**: Operational work-related costs, encompassing tools, software, and communication platforms that facilitate both remote and in-person collaboration. This also covers general operational expenses essential to the day-to-day functions of BOOM DAO.
+* **Infrastructure Expenses**: Costs related to running and maintaining open internet services and infrastructure on the Internet Computer blockchain. This includes cycle top ups and fees associated with SNS canister management, World canister deployment, NFT canister deployment, ICRC canister deployment, and asset canister hosting costs.
+* **Legal, Compliance, & Incorporation Fees**: Comprehensive legal services to ensure BOOM DAO navigates evolving regulatory landscapes. This includes compliance, contractual obligations, employment contracts, and costs for legal incorporation.
+* **Third-Party Services**: Expenditures related to third-party tools, technologies, and services integral to BOOM DAO's operations.
+* **Marketing & Community Engagement**: A budget allocation for marketing campaigns, advertising, social media management, and other promotional activities that elevate BOOM DAO's visibility.
+* **Community Building**: Resources dedicated to community managers, moderators, and other support roles crucial for fostering community engagement and elevating the user experience.
 
 ## Roadmap
-* Unity SDK: Drag-and-drop Unity Package that can be added to any Unity project to kickstart development on ICP with pre-built features for ICP login authentication, canister database, NFT and ICRC token minting, NFT marketplace, and in-game Shop that accepts ICP/ICRC/NFT payments.
-* BOOM Game Makers Alliance V1: A strategic alliance of ICP game developers committed to supporting and growing the on-chain gaming ecosystem. It will establish processes for providing continuous support to all gaming teams building on BOOM DAO and ICP.
-* BOOM Gaming Guilds (BGG) V1: First implementation of an on-chain guild system deeply integrated with canisters of fully on-chain ICP games. Providing tools for community building, gamification of guilds, user acquisition, and cross-game collaboration.
-* On-Chain Multiplayer V1: Initial version of an on-chain multiplayer game framework on ICP, leveraging the World Protocol. Multiplayer server configurations via World canisters, matchmaking features, partitioning of rooms, and canister data transmission synchronized with player groupings in server environments.
-* On-Chain Leaderboard Standard: A composable gaming leaderboard standard. Designed for scalability, adaptable to any on-chain game, and entirely in canisters of the World Protocol.
-* World Protocol V2: Major feature improvements to the existing World Protocol, addressing aspects like payments, staking, chat, login, world entities, and position validation.
-* BOOM Gaming Guilds (BGG) V2: Second iteration of the BGG to improve guild features and tooling based on user feedback and data-driven testing.
-* World Protocol Catalyst Program: Establish a grant committee and attract game teams to pioneer novel use cases and on-chain games on top of the BOOM World Protocol.
-* Game Launcher Platform Tokenization: Design and create tokenization and/or DeFi products within the BOOM DAO Game Launcher platform.
-* Global Gaming Hackathon: Collaborate with gaming academia and startup networks to create a global gaming hackathon that attracts game teams to build innovative games with BOOM DAO's infrastructure.
-* BOOM Grant Program: Assemble a grant committee and launch a grant application process to incentivize game developers.
-* The $BOOM Game Universe: Ecosystem of interconnected on-chain games and autonomous worlds powered by the $BOOM token.
+* **Unity SDK**: Drag-and-drop Unity Package that can be added to any Unity project to kickstart development on ICP with pre-built features for ICP login authentication, canister database, NFT and ICRC token minting, NFT marketplace, and in-game Shop that accepts ICP/ICRC/NFT payments.
+* **BOOM Game Makers Alliance V1**: A strategic alliance of ICP game developers committed to supporting and growing the on-chain gaming ecosystem. It will establish processes for providing continuous support to all gaming teams building on BOOM DAO and ICP.
+* **BOOM Gaming Guilds (BGG) V1**: First implementation of an on-chain guild system deeply integrated with canisters of fully on-chain ICP games. Providing tools for community building, gamification of guilds, user acquisition, and cross-game collaboration.
+* **On-Chain Multiplayer V1**: Initial version of an on-chain multiplayer game framework on ICP, leveraging the World Protocol. Multiplayer server configurations via World canisters, matchmaking features, partitioning of rooms, and canister data transmission synchronized with player groupings in server environments.
+* **On-Chain Leaderboard Standard**: A composable gaming leaderboard standard. Designed for scalability, adaptable to any on-chain game, and entirely in canisters of the World Protocol.
+* **World Protocol V2**: Major feature improvements to the existing World Protocol, addressing aspects like payments, staking, chat, login, world entities, and position validation.
+* **BOOM Gaming Guilds (BGG) V2**: Second iteration of the BGG to improve guild features and tooling based on user feedback and data-driven testing.
+* **World Protocol Catalyst Program**: Establish a grant committee and attract game teams to pioneer novel use cases and on-chain games on top of the BOOM World Protocol.
+* **Game Launcher Platform Tokenization**: Design and create tokenization and/or DeFi products within the BOOM DAO Game Launcher platform.
+* **Global Gaming Hackathon**: Collaborate with gaming academia and startup networks to create a global gaming hackathon that attracts game teams to build innovative games with BOOM DAO's infrastructure.
+* **BOOM Grant Program**: Assemble a grant committee and launch a grant application process to incentivize game developers.
+* **The $BOOM Game Universe**: Ecosystem of interconnected on-chain games and autonomous worlds powered by the $BOOM token.
 
 ## Quarterly Withdrawals vs. Lump Sum
 You may wonder why we are opting for a lump sum withdrawal proposal rather than smaller, quarterly withdrawals. Our decision is driven by a strategic consideration of the operational needs of our project. BOOM DAO is currently in an early-stage, high-growth phase, where adaptability and forward planning are crucial for success.
