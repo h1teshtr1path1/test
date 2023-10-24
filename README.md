@@ -7,7 +7,7 @@ As outlined in the BOOM DAO whitepaper before the SNS, BOOM DAO has put forward 
 The funds being requested will be utilized over the next two years, primarily for development, hiring, marketing, and legal expenses.
 
 ## Budget Breakdown
-* Team Salaries: Compensation for the team members dedicated to building BOOM DAO's mission. This ensures we attract, retain, and motivate top talent critical for the development and growth of BOOM DAO.
+* **Team Salaries**: Compensation for the team members dedicated to building BOOM DAO's mission. This ensures we attract, retain, and motivate top talent critical for the development and growth of BOOM DAO.
 * **HR/Administrative**: HR-related costs, including operational expenses and administrative overhead, necessary for the management and contractual employment of the BOOM DAO team.
 * **Operational Expenses**: Operational work-related costs, encompassing tools, software, and communication platforms that facilitate both remote and in-person collaboration. This also covers general operational expenses essential to the day-to-day functions of BOOM DAO.
 * **Infrastructure Expenses**: Costs related to running and maintaining open internet services and infrastructure on the Internet Computer blockchain. This includes cycle top ups and fees associated with SNS canister management, World canister deployment, NFT canister deployment, ICRC canister deployment, and asset canister hosting costs.
