@@ -8,4 +8,4 @@ The On-Chain Leaderboard Standard solves this problem and unites game developers
 
 ## How do I use the Leaderboard Standard?
 
-If this proposal is approved, the following week there will be a set of canister upgrade proposals to upgrade the World Protocol canisters with the new Leaderboard Standard features. To learn how to use the Leaderboard Standard, please refer to the [BOOM DAO documentaion](https://docs.boomdao.xyz/leaderboards)
+If this proposal is approved, the following week there will be a set of canister upgrade proposals to upgrade the World Protocol canisters with the new Leaderboard Standard features. To learn how to use the Leaderboard Standard, please refer to the [BOOM DAO documentaion](https://docs.boomdao.xyz/leaderboards).
