@@ -1,5 +1,5 @@
-This proposal executes generic function commit_proposed_batch on Game Launcher Asset canister. 
+This proposal upgrades the WorldHub canister of World Protocol.
+  Proposed changes, features or fixes : 
+    1. Upgrade WorldHub canister with the latest changes for the On-Chain Leaderboard Roadmap Milestone
 
-Proposed batch includes UX fix for upgrading World canister using Game Launcher frontend feature.
-
-For more information check https://internetcomputer.org/docs/current/developer-docs/integrations/sns/managing/sns-asset-canister#submitting-an-sns-proposal-and-upgrading-an-asset-canister .
+    More details can be found here: https://docs.boomdao.xyz/release-notes
