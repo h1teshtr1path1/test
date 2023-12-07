@@ -1,3 +1,3 @@
-Adding custom function upgrade_worlds to World Deployer canister of the Game Launcher. 
+This proposal executes the generic function upgrade_worlds in the World Deployer canister, which will programmatically upgrade all the existing World canisters to the latest WASM version. This will make all old World canisters compatible with the latest version of WorldHub and UserNode canisters. 
 
-This upgrade_worlds function will be executed via sns proposal to push latest features, changes and bug fixes to all World canisters, which are directly under control of the World Deployer canister.
+More information about the details of this upgrade to the World Protocol can be found here: https://docs.boomdao.xyz/release-notes\
